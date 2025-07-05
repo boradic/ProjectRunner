@@ -4,8 +4,6 @@ How to Download and Run the Game
 
 Follow these steps to play the game on your Windows PC:
 
-Download the Build Folder
-
 Go to the GitHub repository: https://github.com/your-username/your-repo-name
 
 Click the "Code" button
@@ -13,8 +11,6 @@ Click the "Code" button
 Select "Download ZIP"
 
 Extract the ZIP file to a location on your computer
-
-Run the Game
 
 Open the extracted folder
 
